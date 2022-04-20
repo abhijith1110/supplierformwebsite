@@ -1,0 +1,9 @@
+.header {
+  background-color: yellow;
+  display: flex;
+  font-size: 20px;
+  color: #2D5566;
+  font:normal normal normal 18px URW DIN;
+  opacity:1;
+  justify-content: space-around;
+}

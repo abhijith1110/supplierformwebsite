@@ -1,0 +1,49 @@
+.form-main {
+  margin-left: 80px;
+}
+
+.txtbox1,
+.txtbox2,
+.txtbox3,
+.txtbox4,
+.txtbox5,
+.txtbox6,
+.txtbox7,
+.txtbox8 {
+  width: 500px;
+}
+
+.txtbox9 {
+  width: 500px;
+  height: 150px;
+}
+
+.p1 {
+  font-size: small;
+}
+
+.links {
+  display: flex;
+}
+
+.btn-1 {
+  background-color: #008080;
+  border: none;
+  color: white;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  width: 17%;
+}
+
+.form-right {
+  margin-left: 900px;
+  margin-top: -970px;
+  margin-bottom: 1000px;
+}
+
+.a1 {
+  text-decoration: none;
+}

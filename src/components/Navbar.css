@@ -1,0 +1,33 @@
+.navbar {
+  margin: auto;
+  border: 1px solid gray;
+  height:70px;
+  margin-bottom:50px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+li {
+  float: left;
+  margin-left: 30px;
+  padding:4px;
+  font-weight:bold;
+}
+
+li a {
+  display: block;
+  color: #484848;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #e7ffff;
+}
